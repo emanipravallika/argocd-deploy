@@ -8,7 +8,7 @@ data:
   sixth: six
   seventh: seven
   eigth: eight
-  ninth: nine
+  ninth: nine-new
   tenth: ten
 kind: ConfigMap
 metadata:
