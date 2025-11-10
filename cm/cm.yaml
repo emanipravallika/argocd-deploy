@@ -7,7 +7,7 @@ data:
   fifth: five
   sixth: six
   seventh: seven
-  eigth: eight
+  eigth: eight-new
   ninth: nine-newwww
   tenth: ten-newww
 kind: ConfigMap
