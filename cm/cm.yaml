@@ -9,7 +9,7 @@ data:
   seventh: seven
   eigth: eight
   ninth: nine-newwww
-  tenth: ten-new
+  tenth: ten-newww
 kind: ConfigMap
 metadata:
   name: forg2
