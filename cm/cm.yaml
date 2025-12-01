@@ -8,8 +8,8 @@ data:
   sixth: six
   seventh: seven
   eigth: eight
-  ninth: nineeeeeee
-  tenth: tenyyyy
+  ninth: nine
+  tenth: ten
 kind: ConfigMap
 metadata:
   name: forg2
